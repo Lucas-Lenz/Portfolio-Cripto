@@ -1,4 +1,4 @@
-# Portf-lio-Cripto
+# Portfólio-Cripto
 
 Suponha que um portfólio inicial de criptomoedas tenha 70% em BTC e 30% em ETH. Depois de um mês, o BTC sobe 12% e o ETH 5%. Escreva um código que calcule os pesos finais do portfólio (Python*, R ou VBA) *preferível
 
